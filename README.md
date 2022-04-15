@@ -41,7 +41,7 @@ Although I have set up a file structure in the past with Sass, I decided to use 
 ### What I learned
 
 I learned about the `hsl` colour notation and how it can be used to specify colours in a project.
-`hsl` stands for __HUE__, __SATURATION__,__LIGHTNESS__.
+`hsl` stands for __HUE__, __SATURATION__, __LIGHTNESS__.
 
 ```css
 :root {
