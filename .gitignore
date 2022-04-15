@@ -15,6 +15,11 @@
 .DS_Store
 .prettierignore
 
-*.md
 node_modules/
 dist/
+README-frontend.md
+style-guide.md
+
+# Branch published
+# app/
+# gulpfile.js
