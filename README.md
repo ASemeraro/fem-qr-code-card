@@ -40,7 +40,7 @@ Although I have set up a file structure in the past with Sass, I decided to use 
 
 ### What I learned
 
-I learned about the `hsl` colour notation and how it can be used to specify colours in a project.
+💡 I learned about the `hsl` colour notation and how it can be used to specify colours in a project.
 `hsl` stands for __HUE__, __SATURATION__, __LIGHTNESS__.
 
 ```css
@@ -52,7 +52,7 @@ I learned about the `hsl` colour notation and how it can be used to specify colo
 }
 ```
 
-While I was trying to centre the card in the middle of the page, I discovered that the `<body>` had the same `height` as its content. I needed the `height` to span the whole page, if I wanted `flexbox` to work properly and centre the card. My solution became as follows:
+💡 While I was trying to centre the card in the middle of the page, I discovered that the `<body>` had the same `height` as its content. I needed the `height` to span the whole page, if I wanted `flexbox` to work properly and centre the card. My solution became as follows:
 
 ```css
 body {
@@ -61,7 +61,8 @@ body {
 }
 ```
 
-How to host on Github pages.
+💡 How to host on Github pages.
+
 __Name the repo__
 - Be sure to have named your repo as follows `repo-name.github.io`.
 - If you need to rename it, just go to `Settings` -> `General` -> `Repository name`. Write the new name and click on `Rename`.
