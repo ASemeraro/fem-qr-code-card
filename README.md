@@ -23,7 +23,7 @@ I decided to tackle this challenge by using [Sass](https://sass-lang.com/) and [
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Please check it out on Github Pages 🎉](https://asemeraro.github.io/fem-qr-code-card.github.io/)
 
 ## My process
 
@@ -60,6 +60,24 @@ body {
   min-height: 100vh;
 }
 ```
+
+How to host on Github pages.
+__Name the repo__
+- Be sure to have named your repo as follows `repo-name.github.io`.
+- If you need to rename it, just go to `Settings` -> `General` -> `Repository name`. Write the new name and click on `Rename`.
+- At that point go back to the `<> Code` tab, click on the `Code` dropdown, copy the new link!
+- In your local repo, be sure to run this command `git remote set-url origin repo-name.github.io`.
+
+__Set repo visibility to PUBLIC__
+- Be sure to set your repo to `public`.
+- Go to `Settings` -> `General` -> scroll down to `Danger Zone` -> `Change repository visibility` and click on `Change visibility` -> Select `Make public` in the modal and type what is requested to confirm.
+
+__Activate Github pages__
+- Go to `Settings`.
+- In the `Code and automation` section, click on `Pages`.
+- Selec a branch, a folder and click on `Save`.
+- That's it!!! 🎉 There will be a link to the live page soon after saving.
+
 
 ### Continued development
 
