@@ -62,6 +62,7 @@ body {
 ```
 
 How to host on Github pages.
+
 __Name the repo__
 - Be sure to have named your repo as follows `repo-name.github.io`.
 - If you need to rename it, just go to `Settings` -> `General` -> `Repository name`. Write the new name and click on `Rename`.
