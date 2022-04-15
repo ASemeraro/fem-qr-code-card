@@ -15,5 +15,6 @@
 .DS_Store
 .prettierignore
 
-# I'll avoid pushing the .md files for now. I'll push at the end.
 *.md
+node_modules/
+dist/
