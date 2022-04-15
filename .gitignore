@@ -16,10 +16,11 @@
 .prettierignore
 
 node_modules/
-dist/
+# dist/
 README-frontend.md
 style-guide.md
 
 # Branch published
-# app/
-# gulpfile.js
+app/
+gulpfile.js
+design/
