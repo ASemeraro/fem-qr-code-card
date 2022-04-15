@@ -16,7 +16,6 @@
 .prettierignore
 
 node_modules/
-# dist/
 README-frontend.md
 style-guide.md
 
