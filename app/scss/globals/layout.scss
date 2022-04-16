@@ -14,3 +14,8 @@
 .f-fd-col {
 	flex-direction: column;
 }
+
+body {
+	// Add some padding so that the content doesn't touch the edges of the viewport
+	padding: 1rem;
+}
